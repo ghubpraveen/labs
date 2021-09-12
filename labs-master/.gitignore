@@ -1,0 +1,12 @@
+**/logs
+**/*.retry
+**/*.log
+ppts/
+class-notes/
+.DS_store
+*.pptx
+*.ppt
+.terraform*
+terrafrom.state
+terraform.state.backup
+**/IaC
